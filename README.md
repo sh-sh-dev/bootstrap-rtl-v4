@@ -13,7 +13,12 @@ Bootstrap RTL provides simple yet robust right-to-left capability for Bootstrap 
 <link rel="stylesheet" href="bootstrap-rtl.css">
 ```
 
+Or load it from CDN:
 
+```html
+<!-- Load Bootstrap RTL theme from RawGit -->
+<link rel="stylesheet" href="//cdn.rawgit.com/sh-sh-dev/bootstrap-rtl-v4/master/dist/bootstrap-rtl.min.css">
+```
 
 ## Quick start
 
@@ -41,15 +46,7 @@ If you want a feature or a bug fixed, [report it via project's issues tracker](h
 
 ## Author
 
-**Shaygan Shokrollahi**
+**Shaygan Shokrollahi** And **Hosein Khansari** (only Debug)
 
-+ [http://github.com/sh-sh-dev](http://github.com/sh-sh-dev)
-
-
-## License
-
-I have no idea what licenses are for exactly. So there is no license control over this bootstrap-rtl-v4 project. However bootstrap itself is licensed by Twitter, Inc. under [the MIT License (MIT)](LICENSE.bootstrap).
-
-If it really matters to you to have a license to avoid litigations, this is an unlicensed public domain software. Read [UNLICENSE file](UNLICENSE) for more.
-
-
++ [Shaygan Shokrollahi](https://github.com/sh-sh-dev)
++ [Hosein Khansari](https://github.com/Hkh12)
