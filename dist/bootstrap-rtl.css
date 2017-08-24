@@ -1,8 +1,8 @@
 /*!
  * Bootstrap v4.0.0-beta (https://getbootstrap.com)
  * Copyright 2011-2017 The Bootstrap Authors
- * Copyright 2017 Shaygan Shokrollahi.
- * Licensed under MIT.
+ * Copyright 2011-2017 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 @media print {
     *,
@@ -12747,7 +12747,7 @@ button.list-group-item-dark.active {
 }
 
 .close {
-    float: right;
+    float: left!important;
     font-size: 1.5rem;
     font-weight: bold;
     line-height: 1;
@@ -12776,7 +12776,7 @@ button.close {
 .modal {
     position: fixed;
     top: 0;
-    right: 0;
+    left: 0;
     bottom: 0;
     right: 0;
     z-index: 1050;
